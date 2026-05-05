@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center"> Software Developer Engineer</h3>
+# Hi 👋, I'm Saksham Kumar Maurya
+### Backend-focused Software Engineer | AI & 5G SA Core Specialist
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham1729&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1729" /> </p>-->
+I am a Software Engineer specialized in architecting **Agentic AI systems**, **Zero-Trust architectures**, and **5G SA Core observability**. Currently, I am a Trainee at **C-DOT (Centre for Development of Telematics)**, where I build monitoring and observability solutions for 5G environments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakshamkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamkm" height="30" width="40" /></a>
+- 🔭 **Current Focus:** Local LLM orchestration (Ollama), 5G KPI analysis, and Agentic RAG workflows.
+- ⚡ **Core Expertise:** Python, Go, LangGraph, and specialized 5G observability stacks (Prometheus, Grafana, Thanos).
+- 🛠️ **Security First:** Expert in building privacy-focused, 100% local inference systems to ensure zero data leakage[cite: 1].
+
+---
+
+### 🛠️ Technical Power Grid
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **AI & LLM** | **LangGraph**, **LangChain**, **Ollama (Llama 3.2)**, **RAG**, **Agentic AI**, **HuggingFace**[cite: 1] |
+| **Backend** | **Django**, **FastAPI**, **Flask**, **Zero-Trust RBAC**, **REST APIs**[cite: 1] |
+| **Observability** | **Prometheus**, **Grafana**, **Loki**, **Thanos**, **Fluentd**[cite: 1] |
+| **Infrastructure** | **Docker**, **Linux (Ubuntu)**, **LoxiLB**, **Postman**, **AWS (EC2/S3)**[cite: 1] |
+
+---
+
+### 🌟 Featured Engineering Projects
+
+*   **[SentientChain](https://github.com/saksham1729/SentientChain):** A local multi-agent AI orchestrator using **LangGraph** and **Llama 3.2** for market news synthesis and risk reporting[cite: 1].
+*   **AI Task Management System:** A security-first orchestrator built in **Go** featuring 100% local inference and <10ms PII scanning latency[cite: 1].
+*   **NetNode AI:** An autonomous, stateful Agentic RAG system for high-speed technical document analysis[cite: 1].
+*   **5G SA Core Observability Platform:** Architected a monitoring stack that reduced incident detection time by 35% using **Prometheus** and **Grafana**[cite: 1].
+
+---
+
+### 📊 GitHub Ecosystem
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham1729&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham1729&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham1729&show_icons=true&locale=en&layout=compact" alt="saksham1729" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham1729&show_icons=true&locale=en" alt="saksham1729" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham1729&" alt="saksham1729" /></p>
-
+### 🤝 Connect & Collaborate
+<p align="left">
+<a href="https://linkedin.com/in/sakshamkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamkm" height="30" width="40" /></a>
+<a href="mailto:sakshammaurya61@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+</p>
