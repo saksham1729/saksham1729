@@ -30,11 +30,8 @@ I am a Software Engineer specialized in architecting **Agentic AI systems**, **Z
 
 ---
 
-
----
-
 ### 🤝 Connect & Collaborate
 <p align="left">
-<a href="https://linkedin.com/in/sakshamkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamkm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshamkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamkm" height="30" width="40" /></a><br>
 <a href="mailto:sakshammaurya61@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
