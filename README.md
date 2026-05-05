@@ -23,19 +23,13 @@ I am a Software Engineer specialized in architecting **Agentic AI systems**, **Z
 
 ### 🌟 Featured Engineering Projects
 
-*   **[SentientChain](https://github.com/saksham1729/SentientChain):** A local multi-agent AI orchestrator using **LangGraph** and **Llama 3.2** for market news synthesis and risk reporting[cite: 1].
+*   **SentientChain:** A local multi-agent AI orchestrator using **LangGraph** and **Llama 3.2** for market news synthesis and risk reporting[cite: 1].
 *   **AI Task Management System:** A security-first orchestrator built in **Go** featuring 100% local inference and <10ms PII scanning latency[cite: 1].
 *   **NetNode AI:** An autonomous, stateful Agentic RAG system for high-speed technical document analysis[cite: 1].
 *   **5G SA Core Observability Platform:** Architected a monitoring stack that reduced incident detection time by 35% using **Prometheus** and **Grafana**[cite: 1].
 
 ---
 
-### 📊 GitHub Ecosystem
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham1729&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham1729&layout=compact&theme=radical&hide_border=true&count_private=true" />
-</p>
 
 ---
 
