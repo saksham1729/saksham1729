@@ -17,7 +17,7 @@ I am a Software Engineer specialized in architecting **Agentic AI systems**, **Z
 | **AI & LLM** | **LangGraph**, **LangChain**, **Ollama (Llama 3.2)**, **RAG**, **Agentic AI**, **HuggingFace**[cite: 1] |
 | **Backend** | **Django**, **FastAPI**, **Flask**, **Zero-Trust RBAC**, **REST APIs**[cite: 1] |
 | **Observability** | **Prometheus**, **Grafana**, **Loki**, **Thanos**, **Fluentd**[cite: 1] |
-| **Infrastructure** | **Docker**, **Linux (Ubuntu)**, **LoxiLB**, **Postman**, **AWS (EC2/S3)**[cite: 1] |
+| **Infrastructure** | **Jenkins**,**ArgoCD**,**Kubernetes**,**Docker**, **Linux (Ubuntu)**, **LoxiLB**, **Postman**, **AWS (EC2/S3)**[cite: 1] |
 
 ---
 
